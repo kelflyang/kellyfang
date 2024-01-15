@@ -30,11 +30,11 @@ export default function Home() {
               </p>
               <p className="text-3xl font-thin">
                 Broadly, I am interested in the intersection of design,
-                technology and society. I have prior experiences in product
-                engineering and full-stack development but am eager to engage in
-                other areas of computer science and software engineering. With
-                empathy, I hope to create applications and tools toward a more
-                equitable society.
+                technology and society. I have prior experiences programming
+                full-stack web applications and interactive data visualizations
+                and maps but am eager to engage in other areas of computer
+                science and software engineering. With empathy, I hope to create
+                applications and tools toward a more equitable society.
               </p>
 
               <div className="flex flex-row items-start gap-4">

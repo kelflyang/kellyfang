@@ -1,9 +1,9 @@
 {
+  "/_error": "pages/_error.js",
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
-  "/_error": "pages/_error.js",
-  "/projects": "pages/projects.js",
   "/": "pages/index.js",
-  "/projects/se": "pages/projects/se.js",
-  "/projects/lha": "pages/projects/lha.js"
+  "/projects": "pages/projects.js",
+  "/projects/trailMix": "pages/projects/trailMix.js",
+  "/projects/se": "pages/projects/se.js"
 }
