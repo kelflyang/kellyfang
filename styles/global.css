@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  background-color: #111111;
+  color: #F6C1B9;
+  font-family:
+  'Times New Roman', serif
+}
+
+nav {
+  border-bottom-color: #F6C1B9;
+  background-color: #111111;
+}
+
+.preview-img {
+  max-height: 80%;
+  height: auto;
+  object-fit: scale-down;
+}
+
+
+
+.preview-card {
+  height: 65vh;
+  width: 100%;
+  /* background-color: whitesmoke; */
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+
+
