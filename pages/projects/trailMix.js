@@ -19,7 +19,7 @@ export default function Home() {
 
         <div className="flex lg:flex-row gap-24">
           <div className="w-3/4 flex flex-col gap-16">
-            <p className="text-2xl italic text-white">
+            <p className="text-2xl text-white">
               trailMix is a social media app for nature-enjoyers and hikers of
               all experience levels. The app interfaces with Mapbox's directions
               API to create hiking trails based on existing footpaths. With

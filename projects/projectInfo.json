@@ -1,0 +1,30 @@
+{
+  "se": {
+    "title": "Spatial Equity",
+    "year": 2022
+  },
+  "lha": {
+    "title": "Living Heritage Atlas",
+    "year": 2022
+  },
+  "fs": {
+    "title": "Family Separations",
+    "year": 2021
+  },
+  "easy311": {
+    "title": "Easy 311",
+    "year": 2022
+  },
+  "ssc": {
+    "title": "Self-sufficient Cities",
+    "year": 2021
+  },
+  "trailMix": {
+    "title": "trailMix",
+    "year": 2023
+  },
+  "maven": {
+    "title": "maven",
+    "year": 2023
+  }
+}
