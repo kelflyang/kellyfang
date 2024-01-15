@@ -75,7 +75,7 @@ export default function Home() {
             </div>
             <div>
               <p className="text-2xl">Duration</p>
-              <p className="text-1xl text-white">Fall 2023</p>
+              <p className="text-xl text-white">Fall 2023</p>
             </div>
           </div>
         </div>

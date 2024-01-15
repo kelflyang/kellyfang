@@ -12,6 +12,11 @@
   ],
   "rootMainFiles": [],
   "pages": {
+    "/": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/index.js"
+    ],
     "/_app": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
@@ -27,15 +32,15 @@
       "static/chunks/main.js",
       "static/chunks/pages/projects.js"
     ],
-    "/projects/easy311": [
+    "/projects/lha": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/projects/easy311.js"
+      "static/chunks/pages/projects/lha.js"
     ],
-    "/projects/ssc": [
+    "/projects/se": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/projects/ssc.js"
+      "static/chunks/pages/projects/se.js"
     ]
   },
   "ampFirstPages": []

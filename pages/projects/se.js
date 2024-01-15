@@ -65,13 +65,13 @@ export default function Home() {
             </div>
             <div>
               <p className="text-2xl">Company</p>
-              <p className="text-1xl text-white">
+              <p className="text-xl text-white">
                 MIT Leventhal Center for Advanced Urbanism
               </p>
             </div>
             <div>
               <p className="text-2xl">Duration</p>
-              <p className="text-1xl text-white">Summer, Fall 2022</p>
+              <p className="text-xl text-white">Summer, Fall 2022</p>
             </div>
           </div>
         </div>
