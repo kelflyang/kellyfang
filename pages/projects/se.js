@@ -1,7 +1,3 @@
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faLinkedin } from "@fortawesome/free-brands-svg-icons";
-import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
-import Image from "next/image";
 import Link from "next/link";
 
 import Navigation from "../../components/Navigation";
@@ -36,20 +32,33 @@ export default function Home() {
               className="preview-img"
               src={`/images/projects/se.gif`} // Path to your image inside the "public" directory
             />
+
+            {/* <p className="text-2xl text-white">
+              For this research project, I developed the web application
+            </p> */}
           </div>
 
           <div className="w-1/4 flex-col flex gap-16">
             <div>
-              <p className="text-3xl">Link</p>
-              <Link
-                href="https://spatialequity.nyc/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-2xl text-white"
-              >
-                spatialequity.nyc
-              </Link>
+              <p className="text-3xl">Links</p>
+              <div className="flex flex-col  text-2xl text-white">
+                <Link
+                  href="https://spatialequity.nyc/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  spatialequity.nyc
+                </Link>
+                <Link
+                  href="https://lcau.mit.edu/research/spatial-equity-nyc"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Project website
+                </Link>
+              </div>
             </div>
+
             <div>
               <p className="text-3xl">Tech stack</p>
               <p className="text-2xl text-white">React, Deck.gl, Mapbox</p>

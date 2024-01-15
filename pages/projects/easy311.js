@@ -1,7 +1,3 @@
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faLinkedin } from "@fortawesome/free-brands-svg-icons";
-import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
-import Image from "next/image";
 import Link from "next/link";
 
 import Navigation from "../../components/Navigation";
@@ -25,7 +21,7 @@ export default function Home() {
               analytics to measure the effectiveness of 311 city services
               through a data visualization dashboard.""
             </p>
-            <div className="flex flex-row gap-8 flex-wrap">
+            <div className="flex flex-row gap-8 flex-wrap justify-center">
               <img
                 className="w-2/5"
                 src={`/images/projects/easy311.gif`} // Path to your image inside the "public" directory

@@ -1,14 +1,6 @@
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faLinkedin } from "@fortawesome/free-brands-svg-icons";
-import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
-import Image from "next/image";
-import Link from "next/link";
-
 import Navigation from "../../components/Navigation";
-import ProjectLayout from "../../components/ProjectLayout";
 
 import React from "react";
-import Scrollspy from "react-scrollspy";
 
 export default function Home() {
   return (
