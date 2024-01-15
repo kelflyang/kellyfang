@@ -15,8 +15,8 @@ export default function Home() {
 
         <div className="flex lg:flex-row gap-24">
           <div className="w-3/4 flex flex-col gap-16">
-            <p className="text-xl text-white">
-              trailMix is a social media app for nature-enjoyers and hikers of
+            <p className="text-xl italic text-white">
+              "trailMix is a social media app for nature-enjoyers and hikers of
               all experience levels. The app interfaces with Mapbox's directions
               API to create hiking trails based on existing footpaths. With
               trails, users can document their own hiking experiences. The app
@@ -24,7 +24,11 @@ export default function Home() {
               creation of events where a user may propose a hike on a certain
               date, with certain destinations along the way. Other users may
               view the event details (including attendees, destinations,
-              estimated distance/elevation), start a discussion, and register.
+              estimated distance/elevation), start a discussion, and register.""
+            </p>
+
+            <p className="text-xl text-white">
+              {" "}
               This was a solo design and development of a full-stack application
               over the course of 6 assignments where I learned a lot about good
               software design practices including VSD analysis, heuristic

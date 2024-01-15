@@ -33,9 +33,19 @@ export default function Home() {
               src={`/images/projects/se.gif`} // Path to your image inside the "public" directory
             />
 
-            {/* <p className="text-2xl text-white">
-              For this research project, I developed the web application
-            </p> */}
+            <p className="text-xl text-white">
+              In collaboration with two other developers, I made significant
+              contributions to the development of v1 of the web application. I
+              programmed the component library, fluid transitions, and state
+              management for the project as well as aided in the development of
+              map interactions and general debugging.
+            </p>
+
+            <p className="text-xl text-white">
+              For this cross-disciplinary research project, I attended weekly
+              meetings between the LCAU and the non-profit Transportation
+              Alternatives to deliver technical updates.
+            </p>
           </div>
 
           <div className="w-1/4 flex-col flex gap-16">

@@ -28,6 +28,14 @@ export default function Home() {
               className="preview-img"
               src={`/images/projects/lha.gif`} // Path to your image inside the "public" directory
             />
+
+            <p className="text-xl text-white">
+              I was the primary full-stack developer for this project and
+              programmed the website for the entire duration of my 2022 summer.
+              It was my first ever experience working in the backend, with
+              databases and creating APIs. The platform features dynamic web
+              pages, web forms and an interactive map visualization.
+            </p>
           </div>
 
           <div className="w-1/4 flex-col flex gap-16">

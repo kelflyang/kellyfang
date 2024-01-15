@@ -30,6 +30,12 @@ export default function Home() {
               className="preview-img"
               src={`/images/projects/ssc.gif`} // Path to your image inside the "public" directory
             />
+
+            <p className="text-xl text-white">
+              I analyzed spatial data digitally transcribed from historical
+              documents regarding Deanwood, D.C.’s food landscape to visualize
+              food (in)accessibility over time via voronoi diagrams.
+            </p>
           </div>
 
           <div className="w-1/4 flex-col flex gap-16">

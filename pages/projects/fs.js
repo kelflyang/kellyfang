@@ -21,7 +21,7 @@ export default function Home() {
               immigration policy. Made by analyzing a data set retrieved by the
               American Immigration Council through the Freedom of Information
               Act. Includes a scrollytelling narrative and interactive map based
-              visualization. Worked within a group of four on data analysis,
+              visualization. I worked within a group of four on data analysis,
               prototyping and development.
             </p>
 

@@ -31,6 +31,13 @@ export default function Home() {
                 src={`/images/projects/easy311_chatbot.gif`} // Path to your image inside the "public" directory
               />
             </div>
+
+            <p className="text-xl text-white">
+              As the technical lead of my group, I programmed the entire web
+              application. Informed by meetings with community members and
+              critiques from instructors, we iterated over the design of the
+              application and its features and functionalities several times.
+            </p>
             <div className="flex flex-col gap-8">
               <div className="flex flex-col gap-8">
                 <p className="text-2xl">Wireframe</p>
