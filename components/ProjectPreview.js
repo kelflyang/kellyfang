@@ -10,7 +10,7 @@ const ProjectPreview = ({ projId }) => {
   return (
     <Link
       href={`/projects/${projId}`}
-      className={router.pathname === "/" ? "text-white text-2xl" : "text-2xl"}
+      className={router.pathname === "/" ? "text-white text-xl" : "text-xl"}
     >
       <div className="preview-card">
         <img
@@ -19,8 +19,8 @@ const ProjectPreview = ({ projId }) => {
         />
 
         <div className="p-6 w-full flex flex-col items-center">
-          <h2 className="font-bold text-2xl mb-2">{info[projId].title}</h2>
-          <p className="text-gray-600 text-xl mb-4">{info[projId].year}</p>
+          <h2 className="font-bold text-xl mb-2">{info[projId].title}</h2>
+          <p className="text-gray-600 text-lg mb-4">{info[projId].year}</p>
           {/* <p className="text-gray-500 text-lg">
             {info[projId].tags.join(", ")}
           </p> */}

@@ -10,12 +10,12 @@ export default function Home() {
   return (
     <main>
       <Navigation />
-      <div className="h-min-screen p-24 flex flex-col gap-16">
-        <p className="text-6xl">EASY 311</p>
+      <div className="h-min-screen p-24 flex flex-col gap-8">
+        <p className="text-5xl">EASY 311</p>
 
         <div className="flex lg:flex-row gap-24">
           <div className="w-3/4 flex flex-col gap-16">
-            <p className="text-2xl italic text-white">
+            <p className="text-xl italic text-white">
               "Easy 311's goal is to make 311 reporting and tracking easy
               through a chatbot and interactive map, as well as provide powerful
               analytics to measure the effectiveness of 311 city services
@@ -33,7 +33,7 @@ export default function Home() {
             </div>
             <div className="flex flex-col gap-8">
               <div className="flex flex-col gap-8">
-                <p className="text-3xl">Wireframe</p>
+                <p className="text-2xl">Wireframe</p>
 
                 <iframe
                   width="100%"
@@ -42,7 +42,7 @@ export default function Home() {
                   allowfullscreen
                 ></iframe>
               </div>
-              <p className="text-3xl">Final Presentation</p>
+              <p className="text-2xl">Final Presentation</p>
 
               <iframe
                 src="https://docs.google.com/presentation/d/1Y_rXk5chAYSYqEtSNu5taRLOJ0lzLytoXDU3Rc5DfyU/preview"
@@ -51,7 +51,7 @@ export default function Home() {
               ></iframe>
             </div>
             <div className="flex flex-col gap-8">
-              <p className="text-3xl">Final Report</p>
+              <p className="text-2xl">Final Report</p>
               <iframe
                 src="https://drive.google.com/file/d/1HmV6i3N73BVutUKJCV3E_pN0_KrSIQlL/preview"
                 width="100%"
@@ -62,32 +62,32 @@ export default function Home() {
 
           <div className="w-1/4 flex-col flex gap-16">
             <div>
-              <p className="text-3xl">Link</p>
+              <p className="text-2xl">Link</p>
               <Link
                 href="https://www.easy311.app/?undefined"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-2xl text-white"
+                className="text-xl text-white"
               >
                 easy311.app
               </Link>
             </div>
 
             <div>
-              <p className="text-3xl">Tech stack</p>
-              <p className="text-2xl text-white">
+              <p className="text-2xl">Tech stack</p>
+              <p className="text-xl text-white">
                 React, Express, MongoDB, Deck.gl, Mapbox, Google APIs
               </p>
             </div>
             <div>
-              <p className="text-3xl">Class</p>
-              <p className="text-2xl text-white">
+              <p className="text-2xl">Class</p>
+              <p className="text-xl text-white">
                 11.138 Crowd Sourced City: Civic Tech Prototyping
               </p>
             </div>
             <div>
-              <p className="text-3xl">Duration</p>
-              <p className="text-2xl text-white">Fall 2022</p>
+              <p className="text-2xl">Duration</p>
+              <p className="text-xl text-white">Fall 2022</p>
             </div>
           </div>
         </div>

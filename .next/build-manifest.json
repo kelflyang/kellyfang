@@ -22,15 +22,20 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/projects/se": [
+    "/projects": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/projects/se.js"
+      "static/chunks/pages/projects.js"
     ],
-    "/projects/trailMix": [
+    "/projects/easy311": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/projects/trailMix.js"
+      "static/chunks/pages/projects/easy311.js"
+    ],
+    "/projects/ssc": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/projects/ssc.js"
     ]
   },
   "ampFirstPages": []

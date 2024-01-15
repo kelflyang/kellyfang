@@ -9,10 +9,9 @@ export default function Projects() {
   return (
     <main>
       <Navigation />
-      {/* <div className="p-24 flex md:flex-row flex-wrap gap-8 justify-between"> */}
 
       <div className="p-24 flex flex-col gap-16">
-        <p className="text-6xl text-white">Featured Projects</p>
+        <p className="text-5xl text-white">Featured Projects</p>
 
         <div className="md:grid grid-cols-1 lg:grid-cols-2 gap-16 ">
           {projectIds.map((id) => {

@@ -3,6 +3,6 @@
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/projects": "pages/projects.js",
-  "/projects/se": "pages/projects/se.js",
-  "/projects/trailMix": "pages/projects/trailMix.js"
+  "/projects/easy311": "pages/projects/easy311.js",
+  "/projects/ssc": "pages/projects/ssc.js"
 }

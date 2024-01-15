@@ -10,12 +10,12 @@ export default function Home() {
   return (
     <main>
       <Navigation />
-      <div className="h-min-screen p-24 flex flex-col gap-16">
-        <p className="text-6xl">Spatial Equity NYC</p>
+      <div className="h-min-screen p-24 flex flex-col gap-8">
+        <p className="text-5xl">Spatial Equity NYC</p>
 
         <div className="flex lg:flex-row gap-24">
           <div className="w-3/4 flex flex-col gap-8">
-            <p className="text-2xl italic text-white">
+            <p className="text-xl italic text-white">
               "The NYC Spatial Equity Tool [is] an online database of maps and
               information about how accessible, safe, healthy, and efficiently
               used public space is in New York City. Users will be able to
@@ -40,8 +40,8 @@ export default function Home() {
 
           <div className="w-1/4 flex-col flex gap-16">
             <div>
-              <p className="text-3xl">Links</p>
-              <div className="flex flex-col  text-2xl text-white">
+              <p className="text-2xl">Links</p>
+              <div className="flex flex-col  text-xl text-white">
                 <Link
                   href="https://spatialequity.nyc/"
                   target="_blank"
@@ -60,18 +60,18 @@ export default function Home() {
             </div>
 
             <div>
-              <p className="text-3xl">Tech stack</p>
-              <p className="text-2xl text-white">React, Deck.gl, Mapbox</p>
+              <p className="text-2xl">Tech stack</p>
+              <p className="text-xl text-white">React, Deck.gl, Mapbox</p>
             </div>
             <div>
-              <p className="text-3xl">Company</p>
-              <p className="text-2xl text-white">
+              <p className="text-2xl">Company</p>
+              <p className="text-1xl text-white">
                 MIT Leventhal Center for Advanced Urbanism
               </p>
             </div>
             <div>
-              <p className="text-3xl">Duration</p>
-              <p className="text-2xl text-white">Summer, Fall 2022</p>
+              <p className="text-2xl">Duration</p>
+              <p className="text-1xl text-white">Summer, Fall 2022</p>
             </div>
           </div>
         </div>

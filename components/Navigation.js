@@ -9,14 +9,14 @@ const Navigation = () => {
     <nav className="min-w-screen flex flex-row py-8 px-24 border-b z-5 justify-end gap-8">
       <Link
         href="/"
-        className={router.pathname === "/" ? "text-white text-2xl" : "text-2xl"}
+        className={router.pathname === "/" ? "text-white text-xl" : "text-xl"}
       >
         Home
       </Link>
       <Link
         href="/projects"
         className={
-          router.pathname === "/projects" ? "text-white text-2xl" : "text-2xl"
+          router.pathname === "/projects" ? "text-white text-xl" : "text-xl"
         }
       >
         Projects
@@ -27,8 +27,8 @@ const Navigation = () => {
         rel="noopener noreferrer"
         className={
           router.pathname === "/images/files/resume.pdf"
-            ? "text-white text-2xl"
-            : "text-2xl"
+            ? "text-white text-xl"
+            : "text-xl"
         }
       >
         Resume

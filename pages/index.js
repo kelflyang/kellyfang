@@ -24,7 +24,7 @@ export default function Home() {
         >
           <div className="flex lg:flex-row p-24 justify-between items-center">
             <div className="lg:w-2/3 flex flex-col gap-6">
-              <p className="text-6xl">
+              <p className="text-5xl">
                 I’m Kelly, a senior studying Computer Science and Urban Science
                 at MIT.
               </p>
@@ -57,7 +57,7 @@ export default function Home() {
                 </Link>
               </div>
             </div>
-            <div className="hidden lg:flex lg:w-1/3 filter grayscale z-1 justify-end">
+            <div className="hidden lg:flex lg:w-1/4 filter grayscale z-1 justify-end">
               <Image
                 src="/images/headshot.jpg" // Path to your image inside the "public" directory
                 alt="Headshot of Kelly Fang"
@@ -74,20 +74,20 @@ export default function Home() {
           id="section2"
           className="min-h-screen p-24 flex flex-col align-center justify-center transition ease-in opacity-0 duration-300"
         >
-          <div className="flex sm:flex-col md:flex-col lg:flex-row gap-16">
-            <p className="text-6xl text-white">About Me</p>
+          <div className="flex flex-col lg:flex-row gap-16">
+            <p className="text-5xl text-white">About Me</p>
             <div className="lg:w-1/3 flex flex-col gap-6 ">
               <div>
-                <p className="text-3xl">Skills</p>
-                <p className="text-2xl text-white">
+                <p className="text-2xl">Skills</p>
+                <p className="text-xl text-white">
                   Software Engineering, Full-stack Development, Programming,
                   Data Analysis & Visualization, UI/UX Design, Research
                 </p>
               </div>
 
               <div>
-                <p className="text-3xl">Languages & Tools</p>
-                <p className="text-2xl text-white">
+                <p className="text-2xl">Languages & Tools</p>
+                <p className="text-xl text-white">
                   Typescript, HTML/CSS/Javascript, Tailwind CSS, Python, Java,
                   React, Vue, Next, Node, Express, Redux, MongoDB, GCP, Figma,
                   Git, QGIS
@@ -103,8 +103,8 @@ export default function Home() {
             </div> */}
 
               <div>
-                <p className="text-3xl">Hobbies</p>
-                <p className="text-2xl text-white">
+                <p className="text-2xl">Hobbies</p>
+                <p className="text-xl text-white">
                   Reading, Baking, Lifting, Crafting
                 </p>
               </div>
@@ -112,11 +112,11 @@ export default function Home() {
 
             <div className="lg:w-1/3 flex flex-col gap-8">
               <div>
-                <p className="text-3xl">Selected Coursework</p>
+                <p className="text-2xl">Selected Coursework</p>
                 <div className="flex flex-col gap-4">
                   <div>
-                    <p className="text-2xl text-white font-bold">Technical</p>
-                    <div className="text-2xl text-white">
+                    <p className="text-xl text-white font-bold">Technical</p>
+                    <div className="text-xl text-white">
                       <p>6.02 Digital Communication Systems</p>
                       <p>6.1020 Software Construction</p>
                       <p>6.1040 Software Design</p>
@@ -128,10 +128,10 @@ export default function Home() {
                   </div>
 
                   <div>
-                    <p className="text-2xl text-white font-bold">
+                    <p className="text-xl text-white font-bold">
                       Interdisciplinary
                     </p>
-                    <div className="text-2xl text-white">
+                    <div className="text-xl text-white">
                       <p>11.138 Civic Tech Prototyping</p>
                       <p>11.154 Big Data, Visualization, and Society</p>
                       <p>11.320 Digital City Design: Visual AI</p>
@@ -142,32 +142,32 @@ export default function Home() {
             </div>
             <div className="md:w-1/3 flex flex-col gap-8">
               <div>
-                <p className="text-3xl">Experience</p>
+                <p className="text-2xl">Experience</p>
                 <div className="flex flex-col gap-4">
                   <div>
-                    <p className="text-2xl text-white font-bold">
+                    <p className="text-xl text-white font-bold">
                       Software Engineer Intern
                     </p>
-                    <div className="text-2xl text-white">
+                    <div className="text-xl text-white">
                       <p>Squarespace (Summer 2023)</p>
                       <p>Conservation X Labs (Winter 2023)</p>
                     </div>
                   </div>
 
                   <div>
-                    <p className="text-2xl text-white font-bold">
+                    <p className="text-xl text-white font-bold">
                       Web Developer
                     </p>
-                    <div className="text-2xl text-white">
+                    <div className="text-xl text-white">
                       <p>Civic Data Design Lab (Summer & Fall 2022)</p>
                     </div>
                   </div>
 
                   <div>
-                    <p className="text-2xl text-white font-bold">
+                    <p className="text-xl text-white font-bold">
                       Undergraduate Researcher
                     </p>
-                    <div className="text-2xl text-white">
+                    <div className="text-xl text-white">
                       <p>Civic Data Design Lab (Fall 2023)</p>
                       <p>Senseable City Lab (Spring 2022)</p>
                     </div>

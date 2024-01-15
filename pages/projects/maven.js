@@ -10,12 +10,12 @@ export default function Home() {
   return (
     <main>
       <Navigation />
-      <div className="h-min-screen p-24 flex flex-col gap-16">
-        <p className="text-6xl">Maven</p>
+      <div className="h-min-screen p-24 flex flex-col gap-8">
+        <p className="text-5xl">Maven</p>
 
         <div className="flex lg:flex-row gap-24">
           <div className="w-3/4 flex flex-col gap-16">
-            <p className="text-2xl text-white">
+            <p className="text-xl text-white">
               Maven is a platform that crowdsources translations for educational
               and academic materials using a Genius-style annotation interface.
               A user can upload a document which gets partitioned into sections
@@ -39,7 +39,7 @@ export default function Home() {
             />
 
             <div className="flex flex-col gap-8">
-              <p className="text-3xl">Wireframe</p>
+              <p className="text-2xl">Wireframe</p>
 
               <iframe
                 width="100%"
@@ -52,30 +52,30 @@ export default function Home() {
 
           <div className="w-1/4 flex-col flex gap-16">
             <div>
-              <p className="text-3xl">Link</p>
+              <p className="text-2xl">Link</p>
               <Link
                 href="https://maven-xi.vercel.app/"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-2xl text-white"
+                className="text-xl text-white"
               >
                 maven-xi.vercel.app
               </Link>
               &#20; (broken for now)
             </div>
             <div>
-              <p className="text-3xl">Tech stack</p>
-              <p className="text-2xl text-white">
+              <p className="text-2xl">Tech stack</p>
+              <p className="text-xl text-white">
                 Vue, MongoDB, Express, Mapbox, Pinia
               </p>
             </div>
             <div>
-              <p className="text-3xl">Class</p>
-              <p className="text-2xl text-white">6.1040 Software Design</p>
+              <p className="text-2xl">Class</p>
+              <p className="text-xl text-white">6.1040 Software Design</p>
             </div>
             <div>
-              <p className="text-3xl">Duration</p>
-              <p className="text-2xl text-white">Fall 2023</p>
+              <p className="text-2xl">Duration</p>
+              <p className="text-1xl text-white">Fall 2023</p>
             </div>
           </div>
         </div>
