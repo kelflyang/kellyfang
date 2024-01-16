@@ -26,5 +26,9 @@
   "maven": {
     "title": "maven",
     "year": 2023
+  },
+  "bike": {
+    "title": "Bike Crash Detection Model",
+    "year": 2023
   }
 }

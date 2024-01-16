@@ -3,7 +3,16 @@ import ProjectPreview from "../../components/ProjectPreview";
 import Navigation from "../../components/Navigation";
 import React from "react";
 
-const projectIds = ["se", "lha", "fs", "easy311", "ssc", "trailMix", "maven"];
+const projectIds = [
+  "se",
+  "lha",
+  "fs",
+  "easy311",
+  "ssc",
+  "trailMix",
+  "maven",
+  "bike",
+];
 
 export default function Projects() {
   return (
