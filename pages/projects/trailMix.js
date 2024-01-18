@@ -36,7 +36,7 @@ export default function Home() {
             </p>
 
             <img
-              src={`/images/projects/trailmix.gif`} // Path to your image inside the "public" directory
+              src={`/images/projects/trailMix.gif`} // Path to your image inside the "public" directory
             />
 
             <div className="flex flex-col gap-8">
