@@ -90,7 +90,7 @@ export default function Home() {
                 <p className="text-xl text-white">
                   Typescript, HTML/CSS/Javascript, Tailwind CSS, Python, Java,
                   React, Vue, Next, Node, Express, Redux, MongoDB, GCP, Figma,
-                  Git, QGIS
+                  Git, QGIS, Tensorflow, Pytorch
                 </p>
               </div>
 
@@ -123,6 +123,8 @@ export default function Home() {
                       <p>6.9620 Web Lab (Web Development)</p>
                       <p>6.1210 Algorithms & Data Structures</p>
                       <p>6.1220 Design and Analysis of Algorithms</p>
+                      <p>6.3900 Introduction to Machine Learning</p>
+                      <p>6.S191 Introduction to Deep Leatning</p>
                       <p>11.188 Spatial Analysis & GIS</p>
                     </div>
                   </div>
