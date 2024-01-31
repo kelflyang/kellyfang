@@ -34,7 +34,8 @@ export default function Home() {
                 full-stack web applications and interactive data visualizations
                 and maps but am eager to engage in other areas of computer
                 science and software engineering. With empathy, I hope to create
-                applications and tools toward a more equitable society.
+                applications and tools toward a more equitable and playful
+                society full of wonder and wander.
               </p>
 
               <div className="flex flex-row items-start gap-4">
