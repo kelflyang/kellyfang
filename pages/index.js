@@ -35,7 +35,7 @@ export default function Home() {
                 and maps but am eager to engage in other areas of computer
                 science and software engineering. With empathy, I hope to create
                 applications and tools toward a more equitable and playful
-                society full of wonder and wander.
+                society.
               </p>
 
               <div className="flex flex-row items-start gap-4">
