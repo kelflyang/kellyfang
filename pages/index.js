@@ -91,7 +91,7 @@ export default function Home() {
                 <p className="text-xl text-white">
                   Typescript, HTML/CSS/Javascript, Tailwind CSS, Python, Java,
                   React, Vue, Next, Node, Express, Redux, MongoDB, GCP, Figma,
-                  Git, QGIS, Tensorflow, Pytorch
+                  Git, QGIS, Tensorflow, Pytorch, Mapbox, Deck.gl
                 </p>
               </div>
 
