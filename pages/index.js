@@ -125,7 +125,7 @@ export default function Home() {
                       <p>6.1210 Algorithms & Data Structures</p>
                       <p>6.1220 Design and Analysis of Algorithms</p>
                       <p>6.3900 Introduction to Machine Learning</p>
-                      <p>6.S191 Introduction to Deep Leatning</p>
+                      <p>6.S191 Introduction to Deep Learning</p>
                       <p>11.188 Spatial Analysis & GIS</p>
                     </div>
                   </div>
