@@ -12,6 +12,7 @@ const projectIds = [
   "trailMix",
   "maven",
   "bike",
+  "thumb",
 ];
 
 export default function Projects() {

@@ -36,6 +36,14 @@ export default function Home() {
               databases and creating APIs. The platform features dynamic web
               pages, web forms and an interactive map visualization.
             </p>
+
+            <Link
+              href="https://act.mit.edu/2023/05/living-heritage-atlas-beirut-at-2023-venice-architecture-biennale/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              It was also featured in the 2023 Venice Architecture Biennale!
+            </Link>
           </div>
 
           <div className="w-1/4 flex-col flex gap-16">
