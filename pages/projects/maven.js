@@ -54,12 +54,12 @@ export default function Home() {
             <div>
               <p className="text-2xl">Link</p>
               <Link
-                href="https://maven-xi.vercel.app/"
+                href="https://github.com/CarolinaMoura/maven"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-xl text-white"
               >
-                maven-xi.vercel.app
+                code
               </Link>
               &#20; (broken for now)
             </div>
