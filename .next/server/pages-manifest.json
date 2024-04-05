@@ -3,7 +3,7 @@
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/projects": "pages/projects.js",
-  "/projects/ssc": "pages/projects/ssc.js",
+  "/": "pages/index.js",
   "/projects/maven": "pages/projects/maven.js",
   "/projects/trailMix": "pages/projects/trailMix.js"
 }

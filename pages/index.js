@@ -1,5 +1,5 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faLinkedin } from "@fortawesome/free-brands-svg-icons";
+import { faGithub, faLinkedin } from "@fortawesome/free-brands-svg-icons";
 import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
 import Image from "next/image";
 import Link from "next/link";
@@ -53,6 +53,16 @@ export default function Home() {
                 <Link href={`mailto:fangk@mit.edu`}>
                   <FontAwesomeIcon
                     icon={faEnvelope}
+                    className="hover:text-white transition duration-300 h-10"
+                  />
+                </Link>
+                <Link
+                  href="https://github.com/kelflyang"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <FontAwesomeIcon
+                    icon={faGithub}
                     className="hover:text-white transition duration-300 h-10"
                   />
                 </Link>
