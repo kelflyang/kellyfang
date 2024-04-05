@@ -61,7 +61,6 @@ export default function Home() {
               >
                 code
               </Link>
-              &#20; (broken for now)
             </div>
             <div>
               <p className="text-2xl">Tech stack</p>

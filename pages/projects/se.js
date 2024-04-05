@@ -36,9 +36,10 @@ export default function Home() {
             <p className="text-xl text-white">
               In collaboration with two other developers, I made significant
               contributions to the development of v1 of the web application. I
-              programmed the component library, fluid transitions, and state
-              management for the project as well as aided in the development of
-              map interactions and general debugging.
+              programmed the component library, fluid transitions/animations,
+              and state management for the project as well as aided in the
+              development of map interactions and general debugging. I sought to
+              make the application responsive across different screens as well.
             </p>
 
             <p className="text-xl text-white">

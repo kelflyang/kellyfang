@@ -22,7 +22,7 @@ const Navigation = () => {
         Projects
       </Link>
       <Link
-        href="/images/files/resume.pdf"
+        href="https://drive.google.com/file/d/1L6BPpNTGniKGPkpLHYj0ZtHQ3uTBMeXd/view?usp=drive_link"
         target="_blank"
         rel="noopener noreferrer"
         className={

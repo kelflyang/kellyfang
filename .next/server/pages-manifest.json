@@ -2,7 +2,8 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js",
   "/projects": "pages/projects.js",
-  "/projects/thumb": "pages/projects/thumb.js"
+  "/projects/ssc": "pages/projects/ssc.js",
+  "/projects/maven": "pages/projects/maven.js",
+  "/projects/trailMix": "pages/projects/trailMix.js"
 }

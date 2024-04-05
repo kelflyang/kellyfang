@@ -19,7 +19,7 @@ export default function Home() {
               "Easy 311's goal is to make 311 reporting and tracking easy
               through a chatbot and interactive map, as well as provide powerful
               analytics to measure the effectiveness of 311 city services
-              through a data visualization dashboard.""
+              through a data visualization dashboard."
             </p>
             <div className="flex flex-row gap-8 flex-wrap justify-center">
               <img

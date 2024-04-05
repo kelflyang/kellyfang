@@ -73,10 +73,10 @@ export default function Home() {
 
         <div
           id="section2"
-          className="min-h-screen p-24 flex flex-col align-center justify-center transition ease-in opacity-0 duration-300"
+          className="min-h-screen p-24 flex flex-col  align-center justify-center transition ease-in opacity-0 duration-300"
         >
+          <p className="text-5xl text-white pb-6">About Me</p>
           <div className="flex flex-col lg:flex-row gap-16">
-            <p className="text-5xl text-white">About Me</p>
             <div className="lg:w-1/3 flex flex-col gap-6 ">
               <div>
                 <p className="text-2xl">Skills</p>
@@ -125,6 +125,11 @@ export default function Home() {
                       <p>6.1210 Algorithms & Data Structures</p>
                       <p>6.1220 Design and Analysis of Algorithms</p>
                       <p>6.3900 Introduction to Machine Learning</p>
+                      <p>6.8301 Advances in Computer Vision (currently)</p>
+                      <p>
+                        6.8301 Intelligent Multimodal User Interfaces
+                        (currently)
+                      </p>
                       <p>6.S191 Introduction to Deep Learning</p>
                       <p>11.188 Spatial Analysis & GIS</p>
                     </div>
@@ -135,6 +140,9 @@ export default function Home() {
                       Interdisciplinary
                     </p>
                     <div className="text-xl text-white">
+                      <p>
+                        4.043 Intelligence Interaction: Large Learning Objects
+                      </p>
                       <p>11.138 Civic Tech Prototyping</p>
                       <p>11.154 Big Data, Visualization, and Society</p>
                       <p>11.320 Digital City Design: Visual AI</p>
