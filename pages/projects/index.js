@@ -13,6 +13,7 @@ const projectIds = [
   "maven",
   "bike",
   "thumb",
+  "gpTea",
 ];
 
 export default function Projects() {
