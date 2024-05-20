@@ -30,12 +30,8 @@ export default function Home() {
               </p>
               <p className="text-3xl font-thin">
                 Broadly, I am interested in the intersection of design,
-                technology and society. I have prior experiences programming
-                full-stack web applications and interactive data visualizations
-                and maps but am eager to engage in other areas of computer
-                science and software engineering. With empathy, I hope to create
-                applications and tools toward a more equitable and playful
-                society.
+                technology and society. I have experience in software
+                engineering, data visualiztion, and creative computation.
               </p>
 
               <div className="flex flex-row items-start gap-4">
@@ -135,11 +131,8 @@ export default function Home() {
                       <p>6.1210 Algorithms & Data Structures</p>
                       <p>6.1220 Design and Analysis of Algorithms</p>
                       <p>6.3900 Introduction to Machine Learning</p>
-                      <p>6.8301 Advances in Computer Vision (currently)</p>
-                      <p>
-                        6.8301 Intelligent Multimodal User Interfaces
-                        (currently)
-                      </p>
+                      <p>6.8301 Advances in Computer Vision</p>
+                      <p>6.8301 Intelligent Multimodal User Interfaces</p>
                       <p>6.S191 Introduction to Deep Learning</p>
                       <p>11.188 Spatial Analysis & GIS</p>
                     </div>

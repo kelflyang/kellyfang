@@ -1,9 +1,1 @@
-{
-  "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
-  "/projects": "pages/projects.js",
-  "/": "pages/index.js",
-  "/projects/maven": "pages/projects/maven.js",
-  "/projects/trailMix": "pages/projects/trailMix.js"
-}
+{"/projects/bike":"pages/projects/bike.html","/_app":"pages/_app.js","/_error":"pages/_error.js","/":"pages/index.html","/projects":"pages/projects.html","/projects/fs":"pages/projects/fs.html","/projects/easy311":"pages/projects/easy311.html","/projects/lha":"pages/projects/lha.html","/projects/se":"pages/projects/se.html","/projects/maven":"pages/projects/maven.html","/projects/thumb":"pages/projects/thumb.html","/projects/ssc":"pages/projects/ssc.html","/projects/trailMix":"pages/projects/trailMix.html","/projects/zlack":"pages/projects/zlack.html","/_document":"pages/_document.js","/404":"pages/404.html"}
