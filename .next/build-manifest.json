@@ -5,8 +5,8 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/g7Sr5CNKKcxQXru32XarA/_buildManifest.js",
-    "static/g7Sr5CNKKcxQXru32XarA/_ssgManifest.js"
+    "static/SixJvFcpIiYmSyaXpLzmD/_buildManifest.js",
+    "static/SixJvFcpIiYmSyaXpLzmD/_ssgManifest.js"
   ],
   "rootMainFiles": [],
   "pages": {
@@ -20,7 +20,7 @@
       "static/chunks/675-f281ec90884580d1.js",
       "static/chunks/986-bf2a2ad28e32ea04.js",
       "static/chunks/603-9a38c7b22e69b465.js",
-      "static/chunks/pages/index-570509f0e17590c0.js"
+      "static/chunks/pages/index-c453b030cc5e323a.js"
     ],
     "/_app": [
       "static/chunks/webpack-8fa1640cc84ba8fe.js",
@@ -41,7 +41,7 @@
       "static/chunks/main-72cd581c1e9bd837.js",
       "static/chunks/424-2e4868b1166a8075.js",
       "static/chunks/675-f281ec90884580d1.js",
-      "static/chunks/pages/projects-bc29b306e74a3f42.js"
+      "static/chunks/pages/projects-f8bc26a48df4fd8c.js"
     ],
     "/projects/bike": [
       "static/chunks/webpack-8fa1640cc84ba8fe.js",
@@ -69,6 +69,15 @@
       "static/chunks/675-f281ec90884580d1.js",
       "static/chunks/986-bf2a2ad28e32ea04.js",
       "static/chunks/pages/projects/fs-d8c256654dc2b2fa.js"
+    ],
+    "/projects/gpTea": [
+      "static/chunks/webpack-8fa1640cc84ba8fe.js",
+      "static/chunks/framework-1e817f2a1c5c711b.js",
+      "static/chunks/main-72cd581c1e9bd837.js",
+      "static/chunks/424-2e4868b1166a8075.js",
+      "static/chunks/675-f281ec90884580d1.js",
+      "static/chunks/986-bf2a2ad28e32ea04.js",
+      "static/chunks/pages/projects/gpTea-ccf6e446bd12b536.js"
     ],
     "/projects/lha": [
       "static/chunks/webpack-8fa1640cc84ba8fe.js",
