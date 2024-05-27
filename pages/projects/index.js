@@ -6,14 +6,15 @@ import React from "react";
 const projectIds = [
   "se",
   "lha",
-  "fs",
   "easy311",
+  "gpTea",
+  "dynamix",
+  "fs",
+  "maven",
   "ssc",
   "trailMix",
-  "maven",
   "bike",
   "thumb",
-  "gpTea",
 ];
 
 export default function Projects() {
